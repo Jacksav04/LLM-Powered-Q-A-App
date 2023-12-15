@@ -1,1 +1,1 @@
-# LLM-Powered-Q-A-App
+# LLM-Powered-QA-App
